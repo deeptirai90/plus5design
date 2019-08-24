@@ -3,3 +3,4 @@ data/
 /config/*-local.json
 .vscode
 **.DS_Store
+/nbproject/private/
