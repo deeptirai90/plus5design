@@ -21,7 +21,7 @@
     "customCss": ".footer{padding-top: 5px;}",
     "currencySymbol": "£",
     "paymentGateway": "stripe",
-    "databaseConnectionString": "mongodb://plus5design:plus5.90@plus5design-shard-00-00-sb2cs.mongodb.net:27017,plus5design-shard-00-01-sb2cs.mongodb.net:27017,plus5design-shard-00-02-sb2cs.mongodb.net:27017/expresscart?ssl=true&replicaSet=plus5design-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "databaseConnectionString": "mongodb://plus5design:plus5.90@plus5design-shard-00-00-sb2cs.mongodb.net:27017,plus5design-shard-00-01-sb2cs.mongodb.net:27017,plus5design-shard-00-02-sb2cs.mongodb.net:27017/test?ssl=true&replicaSet=plus5design-shard-0&authSource=admin&retryWrites=true&w=majority",
     "theme": "Cloth",
     "trackStock": false
 }
